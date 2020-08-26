@@ -18,8 +18,8 @@ O Ecoleta facilita o contato entre pessoas ecologicamente conscientes e pontos d
 
 ## Screenshots
 
-![imagem](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(4).png?raw=true)
-![imagem](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(5).png?raw=true)
-![imagem](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(9).png)
-![imagem](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(10).png)
-![imagem](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(11).png?raw=true)
+![image](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(4).png?raw=true)
+![image](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(5).png?raw=true)
+![image](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(9).png)
+![image](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(10).png)
+![image](https://github.com/psdaniel/assets/blob/master/ecoleta/2020-08-26%20(11).png?raw=true)
