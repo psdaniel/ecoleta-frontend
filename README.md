@@ -15,6 +15,7 @@ O Ecoleta facilita o contato entre pessoas ecologicamente conscientes e pontos d
 
 ### Funcionalidades
 
+Há diversas funcionalidades interessantes. Como é possível ver nos screenshots abaixo, tem o botão utilizado para cadastrar o ponto de coleta cujos dados são enviados para o nosso back-end após serem validados. Os dados a serem cadastrados são: estado, cidade e os tipos de resíduos coletados. Repare que a aplicação está integrada à API do IBGE que traz os dados de todos os estados e cidades! Há também o Dropzone, uma funcionalidade bem interessante e prática para fazer o upload de imagens. E além da integração com a API do IBGE, o Ecoleta está integrado também com o mapa global Leaflet para que seja possível mostrar de forma visual a localização de cada ponto de coleta nas proximidades.
 
 ## Screenshots
 
